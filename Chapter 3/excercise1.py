@@ -8,7 +8,7 @@
 #An "Update Greeting" button.
 #In DisplayFrame, include a label to display the personalized greeting.
 #Initially, DisplayFrame is empty, when the user clicks the "Update Greeting" button in InputFrame, the personalized greeting should appear in DisplayFrame with the selected color.
-#Use different background colors for each frame.
+#Use different background colors for each frame. 
 import tkinter as tk
 from tkinter import ttk
 root = tk.Tk()
